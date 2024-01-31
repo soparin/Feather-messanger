@@ -7,7 +7,11 @@
 
 ### Также не забудьте проверить, что репозиторий публичный.
 ---
+## Pull request links
+- [Sprint 1](https://github.com/facebook/react)»,
 
+## Макет проекта 
+- [Макет в Figma](https://www.figma.com/file/x5ulxJQHjRjEGJxEniG6ws/Feather-messanger?type=design&node-id=0%3A1&mode=design&t=1CGzJcCd7boV7sWV-1)
 
 Даже законченный проект остаётся только заготовкой, пока им не начнут пользоваться. Но сначала пользователь должен понять, зачем ему пользоваться вашим кодом. В этом помогает файл README.
 
